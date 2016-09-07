@@ -1,4 +1,5 @@
-## Find the Missing Pet
+## I Eat Cheesburgers.
+## Kobe 4 LYFE.
 ### Instructions
 <img src="http://www.blogcdn.com/blog.moviefone.com/media/2010/11/misterbisson.jpg" alt="Missing pet" height="200" align="right" hspace="20"> You just began your job as Web Developer at the Animal Sanctuary, and they aren't very good at organizing the photos of their favorite alumni animals. Somehow all photos ended up in the wrong folders! It's your job to move through their directory structure and put the animals in their right place. The photos have been named really well, so figuring out their correct location shouldn't be too tricky.
 
@@ -38,7 +39,7 @@ Use the commands we've learned to move the animals to their right places. If eve
 
 ### Let's Move One File Together
 
-Notice that the `painting-elephants.jpg` image is located in `find-missing-pet < cats < indoor < back-alley`. But really, the painting elephant should go inside of `find-missing-pet < elephants < painters`. 
+Notice that the `painting-elephants.jpg` image is located in `find-missing-pet < cats < indoor < back-alley`. But really, the painting elephant should go inside of `find-missing-pet < elephants < painters`.
 
 We can move this elephant image by entering in terminal from the main directory of this project...
 
